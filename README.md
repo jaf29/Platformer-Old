@@ -1,2 +1,2 @@
 # Platformer
- Old school project
+ Old School Project
